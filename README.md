@@ -17,6 +17,7 @@ A minimalist interactive card component built with React, designed to be the per
 git clone https://github.com/Xmind404/Card-Portfolio.git
 cd Card-Portfolio
 npm install
+npm install react-icons
 npm run dev
 ```
 
