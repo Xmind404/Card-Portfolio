@@ -21,7 +21,7 @@ npm run dev
 ```
 
 
-##🧩 Usage
+🧩 Usage
 
 Import the Card component and add it anywhere in your React app:
 
@@ -50,7 +50,7 @@ export default App
 ```
 
 
-##🎨 Customization
+🎨 Customization
 
 The card can be easily customized by modifying:
 
@@ -63,7 +63,7 @@ The card can be easily customized by modifying:
     Size and dimensions
 
 
-##🔧 Built With
+🔧 Built With
 
     React
 
@@ -74,6 +74,6 @@ The card can be easily customized by modifying:
     Framer Motion (for animations)
 
     
-##👨‍💻 Author
+👨‍💻 Author
 
 Franciszek Karbowniczek (aka Xmind 404)
